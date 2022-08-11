@@ -1,2 +1,4 @@
 # Messages-format-and-user-trust-in-chatbots
-The project aims to analyse data received from the user research with the help of conjoint. We want to define whether users trust the same messages format to different degree depending on the chatbot topic or not. Also, the project aims to check the existence of a correlation between the user preference for the particular attribute of messages format and user trust in the information provided using the attribute
+
+Цель работы - определить, действительно ли пользователи доверя- ют одной и той же форме представления ответов в разной степени в зависимости от темы чат-бота, а также понять, связано ли доверие к ответу с предпочтением пользо- вателей конкретных признаков текстовой формы представления ответов.
+
